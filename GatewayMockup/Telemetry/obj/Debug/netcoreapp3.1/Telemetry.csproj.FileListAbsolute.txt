@@ -1,0 +1,9 @@
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\bin\Debug\netcoreapp3.1\Telemetry.deps.json
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\bin\Debug\netcoreapp3.1\Telemetry.dll
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\bin\Debug\netcoreapp3.1\Telemetry.pdb
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.csproj.AssemblyReference.cache
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.AssemblyInfoInputs.cache
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.AssemblyInfo.cs
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.csproj.CoreCompileInputs.cache
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.dll
+C:\Users\t-lilypan\Repos\OpenTelemetry-POC\GatewayMockup\Telemetry\obj\Debug\netcoreapp3.1\Telemetry.pdb

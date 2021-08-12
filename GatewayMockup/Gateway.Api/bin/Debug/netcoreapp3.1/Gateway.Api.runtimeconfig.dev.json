@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\t-lilypan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\t-lilypan\\.nuget\\packages"
+    ]
+  }
+}

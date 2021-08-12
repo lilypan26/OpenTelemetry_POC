@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXgvSjx/pREfqLMc77IfPPfEl/FnA8vx6K4tvTGdiHfhV5uLHK5FRE8PBoU1ZeQx2m4OB0m6EQ65egUBUj1LNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.SysApi\\Gateway.SysApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\epoxy\\1.0.3\\epoxy.1.0.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\google.protobuf\\3.15.5\\google.protobuf.3.15.5.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\grpc.core.api\\2.32.0\\grpc.core.api.2.32.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\grpc.net.client\\2.32.0\\grpc.net.client.2.32.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\grpc.net.common\\2.32.0\\grpc.net.common.2.32.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3\\microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.3\\microsoft.aspnet.webapi.core.5.2.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.logging.configuration\\2.1.0\\microsoft.extensions.logging.configuration.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.1.0\\microsoft.extensions.options.configurationextensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.openapi\\1.3.0-preview\\microsoft.openapi.1.3.0-preview.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry\\1.1.0-beta4\\opentelemetry.1.1.0-beta4.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.api\\1.1.0-beta4\\opentelemetry.api.1.1.0-beta4.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.exporter.console\\1.1.0-beta4\\opentelemetry.exporter.console.1.1.0-beta4.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.exporter.geneva\\1.0.2\\opentelemetry.exporter.geneva.1.0.2.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.exporter.jaeger\\1.1.0-beta4\\opentelemetry.exporter.jaeger.1.1.0-beta4.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.exporter.opentelemetryprotocol\\1.1.0-beta4\\opentelemetry.exporter.opentelemetryprotocol.1.1.0-beta4.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.extensions.hosting\\1.0.0-rc5\\opentelemetry.extensions.hosting.1.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.instrumentation.aspnetcore\\1.0.0-rc5\\opentelemetry.instrumentation.aspnetcore.1.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc5\\opentelemetry.instrumentation.http.1.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\t-lilypan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Epoxy 1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Epoxy",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Client 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.WebApi.Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

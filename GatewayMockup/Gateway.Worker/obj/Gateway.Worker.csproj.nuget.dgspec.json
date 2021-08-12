@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.Worker\\Gateway.Worker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.Worker\\Gateway.Worker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.Worker\\Gateway.Worker.csproj",
+        "projectName": "Gateway.Worker",
+        "projectPath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.Worker\\Gateway.Worker.csproj",
+        "packagesPath": "C:\\Users\\t-lilypan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Gateway.Worker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\t-lilypan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/_packaging/ManualMirror/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\Telemetry.csproj": {
+                "projectPath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\Telemetry.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Epoxy": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Api": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.Jaeger": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\Telemetry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\Telemetry.csproj",
+        "projectName": "Telemetry",
+        "projectPath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\Telemetry.csproj",
+        "packagesPath": "C:\\Users\\t-lilypan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t-lilypan\\Repos\\OpenTelemetry-POC\\GatewayMockup\\Telemetry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\t-lilypan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/_packaging/ManualMirror/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.3.0-preview, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Api": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.Geneva": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "OpenTelemetry.Exporter.Jaeger": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.1.0-beta4, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.0.0-rc5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
