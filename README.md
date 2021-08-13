@@ -1,3 +1,7 @@
+
+![image](https://user-images.githubusercontent.com/55028787/129399315-86cb1aa5-124b-40bc-b5c1-0b43bb3d9a18.png)
+
+
 # Introduction 
 This project was created to explore the OpenTelemetry library, demonstrating its various distributed tracing capabilities through pocs along with different exporters such as Application Insights, Geneva, and Jaeger. 
 
